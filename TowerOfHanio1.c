@@ -1,3 +1,6 @@
+/*Author: B.S.Anjana
+  Date: 4.7.24
+*/
 #include <stdio.h>
 
 
