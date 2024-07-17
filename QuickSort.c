@@ -22,7 +22,7 @@ int main() {
 
     int n = strlen(str);
     start=clock();
-
+    sleep(200);
 
 
     // Perform Quick Sort on the string
